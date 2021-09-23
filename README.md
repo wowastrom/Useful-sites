@@ -6,6 +6,10 @@ https://www.youtube.com/watch?v=6YeCbrtU15s - Что ДЕЙСТВИТЕЛЬНО 
 https://habr.com/ru/sandbox/141670/ - Instagramm API Хабр
 https://qna.habr.com/q/174797 - Переадресация на https
 
+Настройка API Instagram на сайте, вывод ифы из инсты на сайт, получение/обновление Access Token:
+https://www.pandoge.com/socialnye-seti-i-messendzhery/kak-prodlit-uvelichit-vremya-zhizni-bazovogo-api-instagram-basic-display-klyucha-dostupa-access_token-dlya-api-instagram
+https://www.riwkus.pro/notes/web/back-end/tape-instagram-on-the-website/
+
 Плагины для Visual Studio Code:
 https://htmlacademy.ru/blog/boost/tools/hot-keys - комбинации клавишь (Shift + Alt + F)
 https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek - css
