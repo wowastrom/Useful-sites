@@ -10,6 +10,7 @@ https://romua1d.ru/npm-check-updates-obnovlenie-vashih-js-paketov/ - обовл�
 Настройка API Instagram на сайте, вывод ифы из инсты на сайт, получение/обновление Access Token:
 https://www.pandoge.com/socialnye-seti-i-messendzhery/kak-prodlit-uvelichit-vremya-zhizni-bazovogo-api-instagram-basic-display-klyucha-dostupa-access_token-dlya-api-instagram
 https://www.riwkus.pro/notes/web/back-end/tape-instagram-on-the-website/
+https://habr.com/ru/post/578980/
 
 Lazy load - для tghookah
 https://pr-cy.ru/news/p/7736-kak-optimizirovat-zagruzku-kartinok-nastroyka-lazy-loading-izobrazheniy#lazy_loading - описание + модуль для opencart
