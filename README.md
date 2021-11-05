@@ -11,6 +11,16 @@ https://romua1d.ru/npm-check-updates-obnovlenie-vashih-js-paketov/ - обовл�
 https://www.pandoge.com/socialnye-seti-i-messendzhery/kak-prodlit-uvelichit-vremya-zhizni-bazovogo-api-instagram-basic-display-klyucha-dostupa-access_token-dlya-api-instagram
 https://www.riwkus.pro/notes/web/back-end/tape-instagram-on-the-website/
 
+Lazy load - для tghookah
+https://pr-cy.ru/news/p/7736-kak-optimizirovat-zagruzku-kartinok-nastroyka-lazy-loading-izobrazheniy#lazy_loading - описание + модуль для opencart
+https://blog.dareboost.com/en/2019/03/lazy-loading-faster-webpages-seo-friendly/ - тут про lazy load и seo
+https://stackoverflow.com/questions/18726419/how-to-open-a-magnific-popup-on-page-load - lazy load для Magnific Popup
+https://dimsemenov.com/plugins/magnific-popup/documentation.html - lazy load для Magnific Popup
+
+Проверка сайта на скорость
+https://www.dareboost.com/en/report/a_261855714c33ca83fe6bc88fa?reportIds=a_261855714c33ca83fe6bc88fa
+
+
 Плагины для Visual Studio Code:
 https://htmlacademy.ru/blog/boost/tools/hot-keys - комбинации клавишь (Shift + Alt + F)
 https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek - css
