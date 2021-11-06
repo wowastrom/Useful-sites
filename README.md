@@ -21,6 +21,8 @@ https://dimsemenov.com/plugins/magnific-popup/documentation.html - lazy load д�
 Проверка сайта на скорость
 https://www.dareboost.com/en/report/a_261855714c33ca83fe6bc88fa?reportIds=a_261855714c33ca83fe6bc88fa
 
+Работа с xml Opencart
+https://codernotes.ru/articles/php/napisanie-modifikatora-dlya-opencart.html
 
 Плагины для Visual Studio Code:
 https://htmlacademy.ru/blog/boost/tools/hot-keys - комбинации клавишь (Shift + Alt + F)
