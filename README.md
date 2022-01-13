@@ -28,3 +28,14 @@ https://codernotes.ru/articles/php/napisanie-modifikatora-dlya-opencart.html
 https://htmlacademy.ru/blog/boost/tools/hot-keys - комбинации клавишь (Shift + Alt + F)
 https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek - css
 https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag - Auto rename tag
+
+Bootstrap
+https://bootstrap-4.ru/docs/4.3.1/components/card/ - кирпичный эффект элементов на сайте для Bootstrap (галерея изображений, как на этом сайте: https://iam.beyonce.com/)
+
+Wordpress
+https://wp-kama.ru/id_7654/ierarhiya-fajlov-temy-shablona.html - Иерархия файлов темы (шаблона)
+
+Модуль мой склад
+https://dev.moysklad.ru/ - тут различные API
+https://dev.moysklad.ru/doc/api/remap/1.2/#mojsklad-json-api-obschie-swedeniq-autentifikaciq - описание API актуальное на 10.01.2022
+https://habr.com/ru/post/320172/ - Статья на Habr
