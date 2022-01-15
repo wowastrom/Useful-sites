@@ -28,3 +28,7 @@ https://codernotes.ru/articles/php/napisanie-modifikatora-dlya-opencart.html
 https://htmlacademy.ru/blog/boost/tools/hot-keys - комбинации клавишь (Shift + Alt + F)
 https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek - css
 https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag - Auto rename tag
+
+Wordpress
+https://compnot.ru/wordpress/kak-dobavit-redaktiruemyiy-iz-admin-paneli-tekst-v-podval-sayta-v-wordpress/ - Вывод из админки кастомных элементов
+https://wp-kama.ru/id_7654/ierarhiya-fajlov-temy-shablona.html - Иерархия файлов темы (шаблона)
