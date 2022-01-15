@@ -32,3 +32,14 @@ https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-ta
 Wordpress
 https://compnot.ru/wordpress/kak-dobavit-redaktiruemyiy-iz-admin-paneli-tekst-v-podval-sayta-v-wordpress/ - Вывод из админки кастомных элементов
 https://wp-kama.ru/id_7654/ierarhiya-fajlov-temy-shablona.html - Иерархия файлов темы (шаблона)
+
+Bootstrap
+https://bootstrap-4.ru/docs/4.3.1/components/card/ - кирпичный эффект элементов на сайте для Bootstrap (галерея изображений, как на этом сайте: https://iam.beyonce.com/)
+
+Wordpress
+https://wp-kama.ru/id_7654/ierarhiya-fajlov-temy-shablona.html - Иерархия файлов темы (шаблона)
+
+Модуль мой склад
+https://dev.moysklad.ru/ - тут различные API
+https://dev.moysklad.ru/doc/api/remap/1.2/#mojsklad-json-api-obschie-swedeniq-autentifikaciq - описание API актуальное на 10.01.2022
+https://habr.com/ru/post/320172/ - Статья на Habr
