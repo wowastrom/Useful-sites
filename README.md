@@ -44,3 +44,7 @@ https://habr.com/ru/post/320172/ - Статья на Habr
 АНИМАЦИЯ И CSS
 https://wowjs.uk/ - плагин wow для анимаций
 https://habr.com/ru/company/netcracker/blog/277433/ - Все способы вертикального выравнивания в CSS
+
+TELEGRAM BOT ( БОТ ТЕЛЕГРАММА )
+https://www.youtube.com/watch?v=Df-XGBabjv4&t=236s
+https://habr.com/ru/post/306222/
