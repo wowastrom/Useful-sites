@@ -42,3 +42,11 @@ https://dev.moysklad.ru/doc/api/remap/1.2/#mojsklad-json-api-obschie-swedeniq-au
 https://habr.com/ru/post/320172/ - Статья на Habr
 https://incarnate.github.io/curl-to-php/ - curl to php
 
+АНИМАЦИЯ И CSS
+https://wowjs.uk/ - плагин wow для анимаций
+https://habr.com/ru/company/netcracker/blog/277433/ - Все способы вертикального выравнивания в CSS
+
+TELEGRAM BOT ( БОТ ТЕЛЕГРАММА )
+https://www.youtube.com/watch?v=Df-XGBabjv4&t=236s
+https://habr.com/ru/post/306222/
+
