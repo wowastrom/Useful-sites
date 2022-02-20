@@ -43,3 +43,4 @@ https://wp-kama.ru/id_7654/ierarhiya-fajlov-temy-shablona.html - Иерархи�
 https://dev.moysklad.ru/ - тут различные API
 https://dev.moysklad.ru/doc/api/remap/1.2/#mojsklad-json-api-obschie-swedeniq-autentifikaciq - описание API актуальное на 10.01.2022
 https://habr.com/ru/post/320172/ - Статья на Habr
+https://incarnate.github.io/curl-to-php/ - curl to php
