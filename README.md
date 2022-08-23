@@ -50,3 +50,5 @@ TELEGRAM BOT ( БОТ ТЕЛЕГРАММА )
 https://www.youtube.com/watch?v=Df-XGBabjv4&t=236s
 https://habr.com/ru/post/306222/
 
+TOR БРАУЗЕР - если не запускается
+https://dtf.ru/howto/1132812-tor-ne-rabotaet-ispravlyaem-eto
